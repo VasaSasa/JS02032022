@@ -7,3 +7,36 @@ h1 {
 }
 
 
+/* p { */
+    /* float: right; */
+/* } */
+
+
+img {
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 50px;
+    float: left;
+}
+
+h2 {
+    text-decoration: none;
+    clear: both;
+    color: #cccccc;
+}
+
+a {
+    color: #9c080f;
+    font-size: 40px;
+    text-decoration: none;
+}
+
+body {
+    background-image: url(foto_obrazky_napojit/kufr.jpg);
+}
+
+
+p {
+    color:yellow;
+    font-size: 20px;
+}
